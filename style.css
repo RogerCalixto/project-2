@@ -22,3 +22,6 @@ header {
     text-align: center;
     font-family: 'Gochi Hand', cursive;
 }
+header p{
+    font-style: italic;
+} 
